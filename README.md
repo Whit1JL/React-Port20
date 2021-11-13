@@ -6,6 +6,7 @@ Being a web developer means being part of a community. You’ll need a place not
 My task was to create a portfolio using your new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies. This is an overview of what I have learned during my time in the bootcamp.
 
 ## Images 
+![Screenshot (115)](https://user-images.githubusercontent.com/82970208/141647994-ecc8842a-72eb-40c5-9e51-0009aaf6e730.png)
 
 ## User Story 
 AS AN employer looking for candidates with experience building single-page applications
@@ -22,10 +23,18 @@ SO THAT I can assess whether they're a good candidate for an open position
 ## Technology Utilization
 The technologies that I used in this application are: React, Node, and Bootstrap.
 
+## Test
+To test if your application is working: 
+
+`` npm i ``
+
+`` npm start ``
+
 ## License
 License is MIT license.
 
-
-## Contribution
+## Contributors
+It is an open project and everyone can contribute. Please email requesting to be added as a contributor.
 
 ## Questions
+Github: https://github.com/Whit1JL
