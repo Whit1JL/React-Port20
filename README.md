@@ -6,7 +6,7 @@ Being a web developer means being part of a community. You’ll need a place not
 My task was to create a portfolio using your new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies. This is an overview of what I have learned during my time in the bootcamp.
 
 ## Images 
-![Screenshot (115)](https://user-images.githubusercontent.com/82970208/141647994-ecc8842a-72eb-40c5-9e51-0009aaf6e730.png) 
+![Screenshot (114)](https://user-images.githubusercontent.com/82970208/141648304-57f0b5af-93b3-490c-88b7-1967c60aab59.png)
 
 ## User Story 
 AS AN employer looking for candidates with experience building single-page applications
