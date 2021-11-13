@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Port20/static/css/main.3a5aef83.chunk.css",
+    "main.js": "/React-Port20/static/js/main.b37e08f6.chunk.js",
+    "main.js.map": "/React-Port20/static/js/main.b37e08f6.chunk.js.map",
+    "runtime-main.js": "/React-Port20/static/js/runtime-main.1215085f.js",
+    "runtime-main.js.map": "/React-Port20/static/js/runtime-main.1215085f.js.map",
+    "static/css/2.383c0125.chunk.css": "/React-Port20/static/css/2.383c0125.chunk.css",
+    "static/js/2.e8ac3e4b.chunk.js": "/React-Port20/static/js/2.e8ac3e4b.chunk.js",
+    "static/js/2.e8ac3e4b.chunk.js.map": "/React-Port20/static/js/2.e8ac3e4b.chunk.js.map",
+    "index.html": "/React-Port20/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/React-Port20/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.3a5aef83.chunk.css.map": "/React-Port20/static/css/main.3a5aef83.chunk.css.map",
+    "static/js/2.e8ac3e4b.chunk.js.LICENSE.txt": "/React-Port20/static/js/2.e8ac3e4b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Port20/static/media/header.30156add.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1215085f.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.e8ac3e4b.chunk.js",
+    "static/css/main.3a5aef83.chunk.css",
+    "static/js/main.b37e08f6.chunk.js"
+  ]
+}
