@@ -1,6 +1,9 @@
 # React-Port20
 
 ## Description
+Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
+
+My task was to create a portfolio using your new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies. This is an overview of what I have learned during my time in the bootcamp.
 
 ## Images 
 
