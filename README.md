@@ -16,4 +16,13 @@ SO THAT I can assess whether they're a good candidate for an open position
 * Users also can send a message on Contact me
 * Displaying my skills on Resume. Users are be able to download a PDF version of my resume
 
-## 
+## Technology Utilization
+The technologies that I used in this application are: React, Node, and Bootstrap.
+
+## License
+License is MIT license.
+
+
+## Contribution
+
+## Questions
